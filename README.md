@@ -15,8 +15,8 @@
 
 ### 表单
 
-- *Coding With Joe* (Building Forms with Flutter)[https://codingwithjoe.com/building-forms-with-flutter/]
-
+- *Coding With Joe* [Building Forms with Flutter](https://codingwithjoe.com/building-forms-with-flutter/)
+- *Flutter Rocks* [Validating forms in Flutter](https://flutter.rocks/2017/10/17/validating-forms-in-flutter/)
 
 ## 个人网站或博客
 
